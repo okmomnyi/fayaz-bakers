@@ -82,7 +82,7 @@ export const categories: Category[] = [
   },
   {
     id: "birthday",
-    name: "Fayaz Birthday Cakes",
+    name: "Calvin",
     description: "Special cakes for celebrations",
     icon: "🎉",
     image: "https://images.unsplash.com/photo-1558636508-e0db3814bd1d?w=400",
@@ -193,7 +193,7 @@ export const products: Product[] = [
   // FAYAZ SNACKS
   { id: "chevdo-half-kg", name: "Chevdo 1/2KG", category: "snacks", description: "Half kg chevdo mix", prices: generatePrices(500), image: "https://images.unsplash.com/photo-1621939514649-280e2ee25f60?w=400" },
   { id: "chevdo-50g", name: "Chevdo 50G", category: "snacks", description: "50g chevdo pack", prices: generatePrices(60), image: "https://images.unsplash.com/photo-1621939514649-280e2ee25f60?w=400" },
-  { id: "seu-50g", name: "Seu 50G", category: "snacks", description: "50g seu snack", prices: generatePrices(60), image: "https://images.unsplash.com/photo-1621939514649-280e2ee25f60?w=400" },
+  { id: "seu-50g", name: "Calvin", category: "snacks", description: "50g seu snack", prices: generatePrices(60), image: "https://plus.unsplash.com/premium_photo-1753982324805-648c071c2f6d?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxmZWF0dXJlZC1waG90b3MtZmVlZHw2fHx8ZW58MHx8fHx8" },
   { id: "spiced-peanuts-50g", name: "Spiced Peanuts 50G", category: "snacks", description: "Spiced peanuts pack", prices: generatePrices(60), image: "https://images.unsplash.com/photo-1621939514649-280e2ee25f60?w=400" },
   { id: "masala-ghatia-50g", name: "Masala Ghatia 50G", category: "snacks", description: "Spicy ghatia snack", prices: generatePrices(60), image: "https://images.unsplash.com/photo-1621939514649-280e2ee25f60?w=400" },
   { id: "choc-chip-cookies-50g", name: "Choc Chip Cookies 50G", category: "snacks", description: "Small choc chip pack", prices: generatePrices(60), image: "https://images.unsplash.com/photo-1499636136210-6f4ee915583e?w=400" },
